@@ -4,7 +4,7 @@
   "description": "nishizawa",
   "main": "index.js",
   "engines": {
-    "node": "6"
+    "node": "7"
   },
   "scripts": {
     "start": "node index",
